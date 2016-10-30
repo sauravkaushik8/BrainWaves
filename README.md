@@ -7,6 +7,6 @@ This was the qualifying round for the final competetion. Even though it was a we
 
 The pronlem statement was broken into two parts.
 
-1. Supervised Machine Learning problem : To predict whther the stocks in the test set will go up or down based on the observations given in train set.
+1. Supervised Machine Learning problem : To predict whther the stocks in the test set will go up or down based on the observations given in train set. For this part, I tried GBM and XGBoost models.
 
-2. Unsupervised Machine Learning problem : Clustering the 100 masked independent variables into groups so that each cluster contains simmilar variables.
+2. Unsupervised Machine Learning problem : Clustering the 100 masked independent variables into groups so that each cluster contains simmilar variables. For this part, I used hierarchial clustering.
